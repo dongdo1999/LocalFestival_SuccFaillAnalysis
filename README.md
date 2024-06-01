@@ -2,7 +2,6 @@
 
 ## 💻 Project Introduction
 <Analysis of Success Factors and Clustering of Nationwide Regional Festivals>
-  
 - Profiling festival clusters based on success factors and proposing improvement plans
   
 - Project Period: July 2023 ~ September 2023
