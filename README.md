@@ -31,9 +31,9 @@ Kim Dong-hwan (Team Leader), Kim Min, Seo Yoo-jin, Lee Soo-rin, Jang Da-yeon
 - <"Taste and Style for the 2030s" (Cluster 3)>: Cluster of festivals themed around 'culture and arts' held in metropolitan cities (e.g., Daegu Chimac Festival, Incheon Pentaport Rock Festival), with high sales in the retail sector.
 #### Improvement Plans for Failed Festival Clusters
 - <Enhancing Festival Appeal!>: Cluster of festivals held in the metropolitan area (Seoul, Gyeonggi) (e.g., Suwon Hwaseong Cultural Festival, Siheung Gaetgol Festival). They should benchmark Cluster 1, which attracts visitors despite the festival not being the main destination.
-1. Promote or collaborate with landmarks (department stores, parks, leisure facilities, etc.) around the festival venue to attract nearby visitors.
-2. Establish a clear festival identity to enhance recognition and generate revenue through efficient budget management.
+  1. Promote or collaborate with landmarks (department stores, parks, leisure facilities, etc.) around the festival venue to attract nearby visitors.
+  2. Establish a clear festival identity to enhance recognition and generate revenue through efficient budget management.
 
 - <Things to See, Do, and Buy!>: Cluster of festivals themed around 'tradition' (e.g., Ansan Baudeogi Festival, Eumseong Pumba Festival), with a primary audience of the 50s and 60s, sharing commonalities with Cluster 2. They should benchmark the success factors of Cluster 2.
-1. Increase recognition of the festival by linking 'tradition,' the festival's theme, with related 'specialty products,' stimulating the interest and spending power of the primary visitors in their 50s and 60s.
-2. Like the festivals in Cluster 2, consider renaming the festival to be more intuitive.
+  1. Increase recognition of the festival by linking 'tradition,' the festival's theme, with related 'specialty products,' stimulating the interest and spending power of the primary visitors in their 50s and 60s.
+  2. Like the festivals in Cluster 2, consider renaming the festival to be more intuitive.
