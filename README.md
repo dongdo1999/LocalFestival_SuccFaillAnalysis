@@ -11,7 +11,7 @@ Kim Dong-hwan (Team Leader), Kim Min, Seo Yoo-jin, Lee Soo-rin, Jang Da-yeon
 
 ## 🔍 Analysis Workflow
 
-1.Data Collection
+1.Data Collection<br>
 2.Data Preprocessing and Merging (Reclassification of Festival Types)
 3.EDA (Exploratory Data Analysis)
 4.Identification of Success Factors (based on feature importance with 'visitors/budget' as the dependent variable)
