@@ -2,6 +2,7 @@
 
 ## 💻 Project Introduction
 <Analysis of Success Factors and Clustering of Nationwide Regional Festivals>
+  
 - Profiling festival clusters based on success factors and proposing improvement plans
   
 - Project Period: July 2023 ~ September 2023
@@ -11,13 +12,13 @@ Kim Dong-hwan (Team Leader), Kim Min, Seo Yoo-jin, Lee Soo-rin, Jang Da-yeon
 
 ## 🔍 Analysis Workflow
 
-1.Data Collection<br>
-2.Data Preprocessing and Merging (Reclassification of Festival Types)
-3.EDA (Exploratory Data Analysis)
-4.Identification of Success Factors (based on feature importance with 'visitors/budget' as the dependent variable)
-5.Clustering Festivals Based on Key Success Factors (using KMedoids) (distinguishing success/failure clusters based on 'visitors/budget' and 'average daily visitors')
-6.Profiling Characteristics and Key Visitors of Each Festival Cluster
-7.Proposing Improvement Plans for Failed Festival Clusters (based on commonalities and differences with successful clusters)
+1. Data Collection<br>
+2. Data Preprocessing and Merging (Reclassification of Festival Types)
+3. EDA (Exploratory Data Analysis)
+4. Identification of Success Factors (based on feature importance with 'visitors/budget' as the dependent variable)
+5. Clustering Festivals Based on Key Success Factors (using KMedoids) (distinguishing success/failure clusters based on 'visitors/budget' and 'average daily visitors')
+6. Profiling Characteristics and Key Visitors of Each Festival Cluster
+7. Proposing Improvement Plans for Failed Festival Clusters (based on commonalities and differences with successful clusters)
 
 ## 💡 Analysis Results
 #### Success Factors
